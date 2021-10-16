@@ -1,0 +1,8 @@
+title Push note (SPA application)
+
+Browser->Server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+Server-->Browser: HTTP 201 
+note over Browser: Push new note locally in client
+
+
